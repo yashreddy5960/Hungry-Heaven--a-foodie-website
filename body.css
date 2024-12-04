@@ -1,0 +1,25 @@
+        body{
+            background-color: #000000;
+            background: url("image/bg1.jpg");
+            background-position: auto;
+            background-size: auto;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            width: 100%;
+            font-size:medium
+            
+        }
+
+        .box{
+            width: 500px;
+            height: 650px;
+            border: 10px solid  #f8f4f4;
+            display: center;
+            justify-content: left;
+            align-items: center;
+            border-radius: 20px;
+            backdrop-filter: blur(15px);
+            background: #262627;
+        }
